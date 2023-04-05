@@ -43,7 +43,7 @@ h3{
     border: 1px solid #ced4da;
     background-color: transparent;
     color: #b3aaaa;
-    border-radius: 0px 8px 8px 0px;
+    border-radius: 0px 8px 8px 0px; 
 }
 
 .input-div button:hover {
@@ -84,4 +84,8 @@ li {
 
 .itemText {
     text-decoration: "line-through";
+}
+
+button {
+    cursor: pointer;
 }
